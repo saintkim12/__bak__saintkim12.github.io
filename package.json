@@ -1,0 +1,18 @@
+{
+  "name": "saintkim12.github.io",
+  "version": "0.1.0",
+  "description": "my page",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saintkim12/saintkim12.github.io.git"
+  },
+  "author": "saintkim12",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saintkim12/saintkim12.github.io/issues"
+  },
+  "homepage": "https://github.com/saintkim12/saintkim12.github.io#readme"
+}
