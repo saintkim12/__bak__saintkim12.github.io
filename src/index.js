@@ -9,7 +9,7 @@ fetch('./data.yml').then(res => res.text()).then(jsYaml.load)
         <h1>Hello</h1>
       </div>
       <div>
-        ${list.map(({ id, url = `${DEFAULT_URL}/${id}`, description = '' }) => `<div><a href="${url}">${id}</a><p>${description}</p></div>`)}
+        ${list.map(({ id, url = `${DEFAULT_URL}/${id}`, description = '' }) => `<div><a href="${url}">${id}</a><p>${description}</p></div>`).join('')}
       </div>
     `)
   })
