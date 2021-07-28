@@ -2,3 +2,6 @@ repository:
   - id: saintkim12.github.io
     url: https://saintkim12.github.io
     description: main page
+  - id: techblog
+    url: https://saintkim12.github.io/techblog
+    description: tech blog
