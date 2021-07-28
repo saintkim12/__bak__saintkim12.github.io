@@ -16,6 +16,6 @@ module.exports = {
     /* ... */
   },
   buildOptions: {
-    /* ... */
+    out: '../gh-pages/docs'
   },
 }
